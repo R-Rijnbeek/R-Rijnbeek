@@ -1,4 +1,4 @@
-```md
+
 # 👋 Hi, I'm R-Rijnbeek
 
 Senior Software Engineer with a strong background in systems design, computational geometry, and data-driven modeling. I work at the intersection of backend engineering, scientific computing, and geometry processing, with a focus on building scalable pipelines and practical tools.
@@ -113,4 +113,4 @@ I maintain several public Python packages published on PyPI, covering:
 - Infrastructure for large-scale data transformation
 
 ---
-```
+
