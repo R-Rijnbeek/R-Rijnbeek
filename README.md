@@ -1,7 +1,8 @@
 
 # 👋 Hi, I'm R-Rijnbeek
 
-Senior Software Engineer and Data Scientist with a strong background in systems design, computational geometry, and data-driven modeling. I work at the intersection of backend engineering, scientific computing, and geometry processing, with a focus on building scalable pipelines and practical tools.
+
+Senior Software Engineer and Data Scientist focused on systems design, computational geometry, and data-driven modeling. I work at the intersection of backend engineering, scientific computing, and geometry processing, with a focus on building scalable pipelines and practical tools.
 
 ---
 
