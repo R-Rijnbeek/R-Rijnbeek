@@ -1,117 +1,86 @@
+# 👋 Hi, I'm Robert Rijnbeek
 
-# 👋 Hi, I'm R-Rijnbeek
-
-
-Senior Software Engineer and Data Scientist focused on systems design, computational geometry, and data-driven modeling. I work at the intersection of backend engineering, scientific computing, and geometry processing, with a focus on building scalable pipelines and practical tools.
+Building scalable distributed systems, hybrid physical-data models, and high-impact backend architectures.
 
 ---
 
 ## 🧠 About Me
 
-- Background in Physics and Software Engineering
-- Experience as Senior Software Engineer, Data Scientist, and CTO & Co-Founder
-- Focus on building systems rather than isolated scripts
-- Interested in:
-  - Distributed systems
-  - Geometry processing pipelines
-  - BIM / IFC ecosystems
-  - Data-intensive applications
-  - Infrastructure for scalable computation
+Physicist, Software Engineer, and Data Scientist with experience as **CTO & Co-Founder**, working at the intersection of:
+
+- Distributed systems  
+- Data-intensive applications  
+- Geometry processing (LIDAR → BIM)  
+- Hybrid physical + data-driven modeling  
+
+I focus on **building systems, not just features** — designing architectures that scale, adapt, and deliver real-world impact.
 
 ---
 
-## 🏗️ Core Areas
+## 🚀 What I'm Working On
 
-### Geometry & BIM Systems
-- IFC data manipulation and processing
-- LIDAR → BIM reconstruction pipelines
-- 3D geometry reconstruction and semantic modeling
-- Integration with tools like OpenCascade / IFCOpenShell
+- 🧩 **Global file virtualization system**  
+  Content-addressable storage, deduplication, and distributed routing  
 
-### Backend & Systems Engineering
-- API design and implementation (Python / Flask / FastAPI)
-- Pipeline architecture and orchestration
-- Data ingestion, transformation, and serialization
-- Scalable system design
+- 📦 **Python packages (PyPI)**  
+  Scientific computing, data integration, and reusable tooling  
 
-### Scientific & Data Modeling
-- Physics-based modeling approaches
-- Numerical methods and regression-based calibration
-- Hybrid models combining first principles + data-driven methods
+- 📊 **Quantitative investment tooling**  
+  Custom Python modules using `yfinance` for portfolio optimization  
 
-### Developer Tooling
-- Reusable Python libraries
-- Decorators, utilities, and automation tools
-- Data integration (e.g. Google Sheets APIs)
-- Domain-specific validation and processing tools
+- ⚙️ **Scalable backend systems**  
+  APIs, pipelines, and modular architectures  
 
 ---
 
-## 🚀 Projects
+## 🏗️ Selected Work
 
-A selection of projects across GitHub and PyPI:
-
-### 🧱 BIM / IFC / Geometry
-- IFC processing and manipulation pipelines  
-- LIDAR → BIM reconstruction workflows  
-- IFC Web Viewer (Flask + WebGL + Three.js)
+### 🧱 Geometry & BIM Systems
+- LIDAR → BIM reconstruction pipelines  
+- IFC processing and semantic modeling  
+- IFC Web Viewer (Flask + WebGL + Three.js)  
 
 ### 📦 Python Libraries (PyPI)
-- Google Sheets integration utilities  
-- Vapor pressure modeling tools  
-- DNA / sequence processing libraries  
-- Decorators and validation utilities  
-- CINI code validation tools  
-- Templates for Python package bootstrapping  
-
----
-
-## 📦 Packages
-
-I maintain several public Python packages published on PyPI, covering:
-- Data integration
-- Scientific modeling
-- Utility tooling
-- Domain-specific processing
+- Data integration tools (Google Sheets APIs)  
+- Scientific modeling (vapor pressure, numerical tools)  
+- Domain-specific validation (CINI codes, etc.)  
+- Developer utilities and package templates  
 
 ---
 
 ## 🧰 Tech Stack
 
-- **Languages:** Python, JavaScript
-- **Backend:** Flask, FastAPI
-- **Geometry:** IFCOpenShell, OpenCascade (pythonocc)
-- **Data:** NumPy, SciPy
-- **Visualization:** WebGL, Three.js
-- **Cloud / Infra:** AWS, GCP, Heroku
-- **Tooling:** Git, CI/CD workflows
+**Languages:** Python, JavaScript  
+**Backend:** Flask, FastAPI, NodeJS  
+**Data & Modeling:** NumPy, SciPy, TensorFlow  
+**Geometry:** IFCOpenShell, OpenCascade  
+**Cloud:** AWS, GCP, Heroku  
+**Frontend:** WebGL, Three.js  
 
 ---
 
-## 🧭 Philosophy
+## 🧭 Engineering Philosophy
 
-- Build systems, not just scripts
-- Prefer composable and modular architectures
-- Combine domain knowledge with engineering rigor
-- Focus on maintainability, scalability, and clarity
-- Treat data pipelines as first-class systems
+- Build systems, not scripts  
+- Design for scalability and resilience  
+- Prefer modular and composable architectures  
+- Combine domain knowledge with engineering rigor  
+- Treat data pipelines as first-class systems  
 
 ---
 
 ## 📫 Contact
 
-- GitHub: https://github.com/R-Rijnbeek
-- PyPI: https://pypi.org/user/R-Rijnbeek/
+- GitHub: https://github.com/R-Rijnbeek  
+- PyPI: https://pypi.org/user/R-Rijnbeek/  
 
 ---
 
-## 🧩 Interests Going Forward
+## 🔭 Focus Areas
 
-- Scalable geometry processing systems
-- Automated BIM generation from unstructured data
-- Distributed content-addressable architectures
-- Hybrid physical + data-driven modeling systems
-- Infrastructure for large-scale data transformation
-
----
+- Distributed systems & content-addressable architectures  
+- Scalable geometry processing  
+- Automated BIM generation  
+- Hybrid physical + data-driven systems  
+- Infrastructure for large-scale data transformation  
 
